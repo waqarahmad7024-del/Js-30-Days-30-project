@@ -1,3 +1,2 @@
-# apna-college
-this is my first Git Repository,
-Author - Waqar ahmad
+# advance js
+practice advance js topic 
